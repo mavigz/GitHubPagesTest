@@ -42,7 +42,7 @@ h4 {
     display: inline-flex;
     align-items: center;
     position: relative;
-    left: 70%;
+    right: 10%;
 }
 
 .nav-item{
