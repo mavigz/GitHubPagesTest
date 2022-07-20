@@ -129,7 +129,6 @@ footer {
     .header {
         box-sizing: border-box;
         height: 69px;
-        min-width: 90%;
         max-width: 80%;
         border-bottom: 1px solid seashell;
         position: fixed;
@@ -141,7 +140,7 @@ footer {
         display: inline-flex;
         align-items: center;
         position: relative;
-        left: 65%;
+        right: 10%;
     }
 }
 
@@ -161,7 +160,7 @@ footer {
         display: inline-flex;
         align-items: center;
         position: relative;
-        left: 60%;
+        right: 10%;
     }
 }
 
