@@ -40,7 +40,6 @@ h4 {
 
 .nav-panel{
     display: inline-flex;
-    flex-shrink: 1;
     align-items: center;
     position: relative;
     right: 10%;
