@@ -34,7 +34,7 @@ h4 {
 }
 
 #header-items{
-    display: flex;
+    display: inline-flex;
     
 }
 
